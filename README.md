@@ -1,2 +1,4 @@
 # Hello-World
-A New Programmer is born
+A New CS addict is born
+
+and maybe he'll be a great giant
